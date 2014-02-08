@@ -1,4 +1,4 @@
-# Fluent::Plugin::Arduino
+# Fluent::Plugin::Arduino, a plugin for [Fluentd](http://fluentd.org)
 
 TODO: Write a gem description
 
